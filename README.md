@@ -8,7 +8,7 @@ Junior Software Developer with experience in developing web applications using A
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/albertjunior554/)
+- LinkedIn: [Albert Junior](https://www.linkedin.com/in/albertjunior554/)
 <!--- Personal Website: [Your Website](https://yourwebsite.com) -->
 
 # Tech Stack:
