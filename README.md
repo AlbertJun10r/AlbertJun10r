@@ -8,15 +8,6 @@ Junior Software Developer with experience in developing web applications using A
 <!--## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/albertjunior554](https://www.linkedin.com/in/albertjunior554/)) --> 
 
-## 🛠️ My Toolbox
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-
 
 ## 🛠️ Skills
 
