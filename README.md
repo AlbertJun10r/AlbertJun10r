@@ -1,7 +1,8 @@
 # About Me:
 Junior Software Developer with experience in developing web applications using ASP.NET and C#. Familiar with object-oriented programming and agile development. Skilled in creating effective and scalable solutions, with a strong interest in performance optimization and continuous learning.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlbertJun10r&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AlbertJun10r&color=red)
+![Banner]([https://your-banner-url.com/banner.png](https://www.canva.com/design/DAGZsRdhspc/B2Rt-Xn5gUDHSZbPKhQmEA/view?utm_content=DAGZsRdhspc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8890cf343))
 
 <!--## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/albertjunior554](https://www.linkedin.com/in/albertjunior554/)) --> 
