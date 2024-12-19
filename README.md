@@ -3,7 +3,7 @@ Junior Software Developer with experience in developing web applications using A
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlbertJun10r&color=blueviolet)
 
-![Banner](./banner.png)
+![Banner](./banners.png)
 
 <!--## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/albertjunior554](https://www.linkedin.com/in/albertjunior554/)) --> 
